@@ -2,7 +2,7 @@
 
 
 <br/>
-
+<br/>
 
 Find me all around the web :
 
@@ -14,6 +14,7 @@ Find me all around the web :
 <a href="https://www.airbnb.ie/users/show/124034861" target="blank"><img align="center" src="https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png" height="25" /> </a>
 <a href="https://www.facebook.com/davidramos015" target="blank"><img align="center" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" height="25" /> </a>
 
+<br/>
 
 Languages : 
 
@@ -23,7 +24,7 @@ Languages :
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sql)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-
+<br/>
 Technologies : 
 
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
