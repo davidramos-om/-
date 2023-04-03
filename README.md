@@ -20,7 +20,7 @@ Languages :
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 <br/>
-Top Stack : 
+Main Stack :
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -30,7 +30,8 @@ Top Stack :
 ![MS SQL Server](https://img.shields.io/badge/-SqlServer-000?&logo=microsoft-sql-server)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 
-Find out more <a href="https://davidramos-om.com/" target="blank">
+
+My website <a href="https://davidramos-om.com/" target="blank">
 here
 </a>
 
