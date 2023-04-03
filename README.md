@@ -20,7 +20,7 @@ Languages :
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 <br/>
-Top Technologies : 
+Top Stack : 
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
