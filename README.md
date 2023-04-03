@@ -17,18 +17,17 @@ Languages :
 ![C#3](https://img.shields.io/badge/-csharp-000?&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=sql)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 <br/>
-Technologies : 
+Top Technologies : 
 
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![Nest JS](https://img.shields.io/badge/-Nestjs-000?&logo=nestjs)
-![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+![Next JS](https://img.shields.io/badge/-NestJs-000?&logo=nextjs)
+![Nest JS](https://img.shields.io/badge/-NextJs-000?&logo=vercel)
+![Chakra UI](https://img.shields.io/badge/-ChakraUI-000?&logo=chakra-ui)
+![MS SQL Server](https://img.shields.io/badge/-SqlServer-000?&logo=microsoft-sql-server)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 
 Find out more <a href="https://davidramos-om.com/" target="blank">
