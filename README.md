@@ -13,6 +13,7 @@ Find me all around the web :
 <br/>
 
 
+
 <br/>
 
 <h1 align="center">Stack</h1>
@@ -80,3 +81,4 @@ Find me all around the web :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidramos-om&show_icons=true&locale=en" alt="davidramos-om" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidramos-om&" alt="davidramos-om" /></p>
+
