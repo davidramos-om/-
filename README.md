@@ -16,6 +16,9 @@ Find me all around the web :
 
 <br/>
 
+
+<br/>
+
 <h1 align="center">Stack</h1>
 <h3 align="left">Languages:</h3>
 
@@ -76,9 +79,8 @@ Find me all around the web :
 
 <hr/>
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidramos-om&show_icons=true&locale=en&layout=compact" alt="davidramos-om" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidramos-om&show_icons=true&locale=en" alt="davidramos-om" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidramos-om&show_icons=true&locale=en&layout=compact&exclude_repo=wordpress-personal-site,ambient-host&hide=php" alt="davidramos-om" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidramos-om&" alt="davidramos-om" /></p>
+
 
